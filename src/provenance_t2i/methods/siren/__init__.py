@@ -1,0 +1,2 @@
+"""SIREN method implementation."""
+
